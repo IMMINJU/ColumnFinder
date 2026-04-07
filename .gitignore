@@ -1,0 +1,37 @@
+# .NET build output
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS / VS Code
+.idea/
+.vs/
+.vscode/
+
+# Build artifacts
+*.dll
+*.pdb
+*.exe
+*.cache
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Logs / temp
+*.log
+debug.log
+*.tmp
+tools/
